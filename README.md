@@ -7,3 +7,8 @@ Player.js - We wrote the code for the Player Class. We wrote a function getCount
 
 
 Game.js - 
+
+
+Database__________________________
+gameState:0
+playerCount:0
